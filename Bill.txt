@@ -1,0 +1,5 @@
+Nr bill: 0
+Client name: Antonia Cociubei
+Product name: asf
+Quantity: 1
+Total: 3
